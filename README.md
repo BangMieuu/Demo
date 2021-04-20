@@ -1,11 +1,11 @@
-# Welcome to eTutor
+# Welcome to Magazine
 
-## eTutor for University school system
+## Magazine for University school system
 
 ### Clone the project via
 
 ```git/bash
-    git clone https://github.com/quannh-netalik/eTutor-fpt.git
+    git clone https://github.com/BangMieuu/Magazine
 ```
 
 ### FE
